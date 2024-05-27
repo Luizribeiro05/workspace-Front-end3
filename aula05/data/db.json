@@ -1,0 +1,22 @@
+{
+    "Alunos":[
+        {
+            "id": 1,
+            "nome": "Luiz Gonzaga",
+            "email": "luizribeiro.tech@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 2,
+            "nome": "João",
+            "email": "joao@gmail.com",
+            "curso": "Sistemas para Internet"
+        },
+        {
+            "id": 3,
+            "nome": "Sergio",
+            "email": "sergio@gmail.com",
+            "curso": "Sistemas para Internet"
+        }
+    ]
+}
