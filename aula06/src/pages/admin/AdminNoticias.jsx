@@ -30,8 +30,6 @@ const AdminNoticias = () => {
         }
       }
 
-
-
   return (
     <div>
       <Typography variant="h4" gutterBottom>Gerenciar Notícias</Typography>
